@@ -1,2 +1,2 @@
-# ecs-demo
-Getting started with ECS
+# ecs-wordpress
+Getting started with EKS using a WordPress container
